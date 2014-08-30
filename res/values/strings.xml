@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">screenLocker</string>
+    <string name="title_section1">page1</string>
+    <string name="title_section2">page2</string>
+    <string name="title_section3">page3</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
